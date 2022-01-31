@@ -28,8 +28,8 @@ At the moment I am a student at Yandex Practicum.  I am studying to be a junior 
 
 
 <p align="center">
-<a href="mailto:burdaonelove@gmail.com"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/mail-icon.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/squaredbusinessman/"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/linkedin-icon.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/squaredbusinessman/"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/insta-icon.svg"></a>&nbsp;&nbsp;
-<a href="https://www.codewars.com/users/squaredbusinessman/"><img height="30" src="https://www.codewars.com/users/squaredbusinessman/badges/micro"></a>
+<a href="mailto:burdaonelove@gmail.com" target="_blank" rel="noopener"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/mail-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/squaredbusinessman/" target="_blank" rel="noopener"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/linkedin-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/squaredbusinessman/" target="_blank" rel="noopener"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/insta-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.codewars.com/users/squaredbusinessman/" target="_blank" rel="noopener"><img height="30" src="https://www.codewars.com/users/squaredbusinessman/badges/micro"></a>
 </p>
