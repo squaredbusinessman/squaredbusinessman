@@ -1,16 +1,35 @@
-### Hi there 👋
+<p align="center">
+      <img src="https://github.com/squaredbusinessman/squaredbusinessman/blob/main/background%403x.png" width="100%" alt="Hi! I am Evgeny Antropov. Frontend developer from Moscow." />
+</p>
 
-<!--
-**squaredbusinessman/squaredbusinessman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page!
+At the moment I am a student at Yandex Practicum.  I am studying to be a junior web developer.  But already now I am ready to participate in the early stages of development, make up with HTML and CSS,  write the simplest scripts in Vanilla JS.
 
-Here are some ideas to get you started:
+### 🛠 Мой технологический стэк/My tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Фронтенд/Frontend:** Vanilla JavaScript (ES5), HTML5, CSS;
+- **Стилизация/Styling:** SCSS/LESS;
+- **Сборщики/Code bundlers:** Gulp;
+- **Работа с графикой/UX/UI:** Figma.
+
+### 👩🏻‍🎓 План обучения/Currently learning:
+- TypeScript - 2023.
+- **Фронтенд/Frontend:** React (with React hooks) - 2022;
+- **Стилизация/Styling:** SStyled Components, TailwindCSS, Bootstrap, Pug - 2022;
+- **Бэкэнд/Backend:** Node.js, PHP, MySQL - 2022;
+- **Тестирование/Testing libraries:** Jest - 2023;
+- **Сборщики/Code bundlers:** Webpack - 2022;
+
+### 💻 Реализованные проекты/My open source projects:
+
+| Название/Project name        | Описание/Description          | Технологии/Technologies  |
+| ------------- | ------------- | ----- |
+| [Keksobooking](https://github.com/squaredbusinessman/679669-keksobooking-19) | Simple "Booking"- like app,  where you can view photos, where you can plan your trip itinerary,  manage your pins,  sort available options using various filters. | Vanilla JavaScript (ES5) |
+
+
+<p align="center">
+<a href="mailto:burdaonelove@gmail.com"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/mail-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/squaredbusinessman/"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/linkedin-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/squaredbusinessman/"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/insta-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.codewars.com/users/squaredbusinessman/"><img height="30" src="https://www.codewars.com/users/squaredbusinessman/badges/micro"></a>
+</p>
