@@ -17,9 +17,9 @@
 - **Работа с графикой/UX/UI:** Figma.
 
 ### 👩🏻‍🎓 План обучения/Currently learning:
-- TypeScript - 2023.
+- TypeScript - 2024.
 - **Фронтенд/Frontend:** React (with React hooks) - 2022;
-- **Стилизация/Styling:** SStyled Components, TailwindCSS, Bootstrap, Pug - 2023;
+- **Стилизация/Styling:** SStyled Components, TailwindCSS, Bootstrap, Pug - 2024;
 - **Бэкэнд/Backend:** Node.js - начальные знания, приобретённые в Практикуме, развернуть проект, создание схем, работа с MongoDB;
 - **Тестирование/Testing libraries:** Jest - 2023;
 - **Сборщики/Code bundlers:** Webpack - 2023;
