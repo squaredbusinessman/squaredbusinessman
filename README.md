@@ -13,7 +13,7 @@
 
 - **Фронтенд/Frontend:** Vanilla JavaScript (ES5), HTML5, CSS;
 - **Стилизация/Styling:** SCSS/LESS;
-- **Сборщики/Code bundlers:** Gulp;
+- **Сборщики/Code bundlers:** Gulp, Webpack;
 - **Работа с графикой/UX/UI:** Figma.
 
 ### 👩🏻‍🎓 План обучения/Currently learning:
@@ -22,7 +22,6 @@
 - **Стилизация/Styling:** SStyled Components, TailwindCSS, Bootstrap, Pug - 2024;
 - **Бэкэнд/Backend:** Node.js - начальные знания, приобретённые в Практикуме, развернуть проект, создание схем, работа с MongoDB;
 - **Тестирование/Testing libraries:** Jest - 2023;
-- **Сборщики/Code bundlers:** Webpack - 2023;
 
 ### 💻 Реализованные проекты/My open source projects:
 
