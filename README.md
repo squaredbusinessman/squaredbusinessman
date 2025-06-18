@@ -6,7 +6,7 @@
 
 ### 📬 Данные для связи:
 - **Telegram -** https://t.me/webisourbread;
-- **E-mail -** burdaonelove@gmail.com;
+- **E-mail -** antropov.webdev@gmail.com;
 
 <p align="center">
 <a href="mailto:burdaonelove@gmail.com" target="_blank" rel="noopener"><img height="30" src="https://raw.githubusercontent.com/squaredbusinessman/squaredbusinessman/master/mail-icon.svg"></a>&nbsp;&nbsp;
