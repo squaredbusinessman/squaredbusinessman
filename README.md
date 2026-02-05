@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://github.com/squaredbusinessman/squaredbusinessman/blob/main/image@3x.png" width="100%" alt="Hi! I am Evgeny Antropov." />
+      <img src="https://github.com/squaredbusinessman/squaredbusinessman/blob/main/D01E4DEE-D49D-4B23-BEA4-6B7B7C0C982D.png" width="100%" alt="Hi! I am Evgeny Antropov." />
 </p>
 
 Добро пожаловать на мою страницу GitHub!
